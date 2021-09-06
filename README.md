@@ -1,1 +1,1 @@
-{"open": 1, "url": "https:\/\/h5.kingcoinw.com"}
+{"open": 0, "url": "https:\/\/h5.kingcoinw.com"}
